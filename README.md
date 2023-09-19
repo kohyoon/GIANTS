@@ -18,5 +18,10 @@ Spring Project
   <li>굿즈</li>
   <li>굿즈 리뷰</li>
   <li>굿즈 문의</li>
-  <li>구단 뉴스</li>
+  <li>구단 뉴스</li> : 목록, 등록, 상세
+  <p>
+    <img src="https://github.com/kohyoon/GIANTS/assets/71555788/e5249c6b-babc-4c89-8869-0aef75d19860" width="500">
+    <img src="https://github.com/kohyoon/GIANTS/assets/71555788/556c5e56-18dd-4a9d-8c1b-52b343490395" width="500">
+    <img src="https://github.com/kohyoon/GIANTS/assets/71555788/4048aef4-e100-4dee-9d98-2254bf1d1f1b" width="500">
+  </p>
 </ul>
