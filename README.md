@@ -25,7 +25,9 @@ Spring Project
 
 <img width="1666" alt="굿즈 등록/수정" src="https://github.com/kohyoon/GIANTS/assets/71555788/e00a496b-5006-4d6e-b844-bfca4e0f9fc6"> 
 <img width="1666" alt="굿즈 목록/상세" src="https://github.com/kohyoon/GIANTS/assets/71555788/d95b4d8f-ed66-43c6-90d0-d879627111c0">
-
+<br>
+-관리자페이지 굿즈 목록
+<img width="1666" alt="관리자페이지 굿즈 목록" src="https://github.com/kohyoon/GIANTS/assets/71555788/2f7173e3-7625-43f1-9f77-63215c439b51">
 <br/>
 
 - **굿즈 리뷰** : 목록, 상세, 등록/수정, 삭제
