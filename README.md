@@ -21,24 +21,29 @@ Spring Project
 
 ## ⭐담당 파트
 
-- **굿즈** : 목록, 등록/수정, 상세
+- **굿즈** : 목록, 상세, 등록, 수정
+
+<img width="1666" alt="굿즈 등록/수정" src="https://github.com/kohyoon/GIANTS/assets/71555788/e00a496b-5006-4d6e-b844-bfca4e0f9fc6"> 
+<img width="1666" alt="굿즈 목록/상세" src="https://github.com/kohyoon/GIANTS/assets/71555788/d95b4d8f-ed66-43c6-90d0-d879627111c0">
 
 <br/>
 
-- **굿즈 리뷰** : 목록, 등록/수정, 상세, 삭제
+- **굿즈 리뷰** : 목록, 상세, 등록/수정, 삭제
+
+<img width="1666" alt="굿즈 리뷰" src="https://github.com/kohyoon/GIANTS/assets/71555788/0f090778-33cc-4808-875f-4351f2e79984"> 
 
 <br/>
 
 - **굿즈 문의** : 목록, 등록/수정, 상세, 삭제, 답변
 
+<img width="1666" alt="굿즈 문의1" src="https://github.com/kohyoon/GIANTS/assets/71555788/7d4af815-96e2-4932-acf6-51264987bd22"> 
+<img width="1666" alt="굿즈 문의2" src="https://github.com/kohyoon/GIANTS/assets/71555788/a49b4950-5393-4def-9d9d-9685ac980b63"> 
+<br>답변은 관리자만 작성할 수 있으며, 답변이 달리기 전에는 "처리전" 답변이 1개 이상 달린 후에는 "답변완료"라는 표시와 함께 체크박스가 표시됨
+
 <br/>
 
-- **구단 뉴스** : 목록, 등록/수정, 상세
+- **구단 뉴스** : 목록, 상세, 등록, 수정, 삭제
 
-<img width="1666" alt="구단 뉴스 목록" src="https://github.com/kohyoon/GIANTS/assets/71555788/e5249c6b-babc-4c89-8869-0aef75d19860">
-
-<img width="1666" alt="구단 뉴스 등록/수정" src="https://github.com/kohyoon/GIANTS/assets/71555788/556c5e56-18dd-4a9d-8c1b-52b343490395">
-
-<img width="1666" alt="구단 뉴스 상세" src="https://github.com/kohyoon/GIANTS/assets/71555788/4048aef4-e100-4dee-9d98-2254bf1d1f1b">
+<img width="1666" alt="구단 뉴스" src="https://github.com/kohyoon/GIANTS/assets/71555788/b87432a8-6a39-476c-bb86-4ff973118a0b">
 
 <br/>
